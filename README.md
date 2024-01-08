@@ -1,4 +1,4 @@
-[2017-01-06 12:17:13] <Maddox> What if I started directing my fans to start attacking him and Asterios and you and everyone's livelihood?
+[2017-01-06 12:17:13] <Maddox> What if I started directing my fans to start attacking him and Asterios and you and everyone's livelihood?  
 [2017-01-06 12:17:54] <wauterboi> I'd release all the conversations we had, tell you to fuck off, and call it a day. :P
 
 ---------------
