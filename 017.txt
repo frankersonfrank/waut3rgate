@@ -1,0 +1,70 @@
+[Preface] More of Maddox complaining in general, and I throw a curveball about programming.
+
+[2017-03-07 18:38:27] <wauterboi> https://www.reddit.com/r/TheDickShow/comments/5y4wyh/i_plan_to_hopefully_crash_maddoxs_book_signing_if/
+[2017-03-07 18:38:57] <wauterboi> Just wanted to show you that people who are aiming to be complete dumbasses get called out for it and voted down
+[2017-03-07 19:21:41] <Maddox> Cool, how's that suicide pool going? Any hot new jokes about my "chimp" girlfriend, or my finances or mental health? Any more autism or mental retardation jokes? Any other schemes to hurt my livelihood?
+[2017-03-07 19:28:17] <wauterboi> Did you actually look at the suicide pool thread, or merely saw that it existed?
+[2017-03-07 19:32:43] <Maddox> I don't look at anything in there except what people send me. It's toxic. I know there was also some kind of pool to shut down my podcast because they are obsessed losers who can't leave me alone
+[2017-03-07 19:33:56] <wauterboi> There was a spiteful thread about people who were betting on when your podcast was going to end, but I think that's basically their version of a celebrity death pool. It's laughing from afar. The suicide pool thread was largely downvoted and seen as extremely uncool.
+[2017-03-07 19:34:46] <Maddox> Everything there is spiteful and mean spirited. "the power of spite compels you"
+[2017-03-07 19:34:56] <Maddox> #spiteismite
+[2017-03-07 19:35:05] <wauterboi> mmhmm. I figured if I ever got onto the show I'd talk about it.
+[2017-03-07 19:35:40] <Maddox> There's no such thing as laughing from afar. That's like laughing from afar at bullying and harassment instead of standing up against it
+[2017-03-07 19:36:31] <Maddox> You have the luxury to point and laugh because it's not affecting you
+[2017-03-07 19:36:50] <wauterboi> Dunno. I laugh at YouTube drama and stuff like that. idubbbz does a lot of shitting on YouTube celebrities and stuff.
+[2017-03-07 19:36:55] <wauterboi> That doesn't bug me so much.
+[2017-03-07 19:38:11] <Maddox> The main difference is that this isn't youtube drama. This isn't ongoing between two people. I haven't been engaging with it. And you know me. And by being in the forums, and contributing content to it, you become a part of it
+[2017-03-07 19:39:03] <Maddox> Even youtube drama has its limits and people call them out for being mean-spirited bullies, even against people like leafy
+[2017-03-07 19:39:09] <wauterboi> I dunno. I guess I'm kind of not that bothered by some forms of bullying. People betting on when your show is going to end doesn't bother me. People trying to "crash" your book signings is awful.
+[2017-03-07 19:39:27] <Maddox> It's all awful
+[2017-03-07 19:39:35] <wauterboi> Why?
+[2017-03-07 19:39:50] <Maddox> You got all paranoid that you might lose some income if I drop the nuclear option
+[2017-03-07 19:40:30] <Maddox> Yet you take part in a forum where people are actively trying to hurt my livelihood. How is that fair?
+[2017-03-07 19:41:02] <Maddox> The dick warts made me lose a sponsor for nothing I did. That's fucking bullshit
+[2017-03-07 19:41:10] <wauterboi> which sponsor?
+[2017-03-07 19:41:19] <Maddox> That's taking food off my table
+[2017-03-07 19:41:23] <Maddox> Harry's
+[2017-03-07 19:41:28] <wauterboi> (and also, at this point I don't care if you drop the nuclear option)
+[2017-03-07 19:42:21] <wauterboi> However, I think that if you do that, you've really gotta prepare for people trying to dish it back.
+[2017-03-07 19:42:43] <wauterboi> Was the Harry's thing over the "nigger" dillema?
+[2017-03-07 19:45:15] <Maddox> They've been dishing it out
+[2017-03-07 19:45:47] <Maddox> That would be me dishing it back. I've stayed quiet this whole time and that 3 minute video doesn't begin to explain my side of the story
+[2017-03-07 19:46:14] <Maddox> And there won't be dishing back because some people will end up in jail. It's far worse than you think.
+[2017-03-07 19:48:13] <wauterboi> I'm saying it won't stop.
+[2017-03-07 19:48:21] <wauterboi> From zealous fans, I think.
+[2017-03-07 19:48:46] <wauterboi> I really have no idea what they could have done that's super bad.
+[2017-03-07 19:48:52] <wauterboi> *can't imagine
+[2017-03-07 19:53:15] <wauterboi> [http://www.wauterboi.com/peen/017-vim.jpg] what's your programming set up look like?
+
+[Note] Unimportant, but you can see some of the demo music I was working on here! The "Riddler" cover for Asterios to sing over, my Gorillaz mashup (the_future_is_coming_on.mp3), and "All-American Hopak!" (russian_remix.mp3). Unfortunately, that website is defunct and I've since moved servers twice. Other stuff was just random stuff for the IRC and Facepunch.
+
+[2017-03-07 19:53:21] <wauterboi> if the code looks retarded it's because it's for school
+[2017-03-07 22:55:18] <Maddox> Same as yours, I just use basic vi
+[2017-03-07 22:55:23] <Maddox> vim
+[2017-03-07 22:56:10] <Maddox> I use multiple shell windows rather than split vim, never figured that out really and found it to be easier to use the OS tabbing rather than internal windows
+[2017-03-07 22:56:20] <wauterboi> I've gotten real into it with TMux and a small .vimrc.
+[2017-03-07 22:56:20] <Maddox> I just read through your code
+[2017-03-07 22:56:50] <Maddox> Man what was frustrating in my computer science classes was having to write something like that with C++ when I could essentially create that entire program with 2-3 lines of shell script + AWK
+[2017-03-07 22:56:54] <wauterboi> I did a lot of fixing. All that code was previously written on a tablet listening g to professors ramble on about whatever.
+[2017-03-07 22:57:48] <wauterboi> C# is basically C++ plus cheating. Garry Newman loves it.
+[2017-03-07 22:58:15] <wauterboi> My cup of tea is Python, although I do want to hop on the C# bandwagon since I appreciate C style stuff.
+[2017-03-07 22:58:55] <wauterboi> I like my code fighting back. "Hey fuckface, that's an int. You can't do that."
+[2017-03-07 23:00:10] <Maddox> I've gotta learn python, it's the back-end to Blender
+[2017-03-07 23:05:26] <wauterboi> Python is beautiful in my opinion. It takes a lot of the unnecessary stuff out of the equation like semicolons and brackets and let you focus on the conceptual stuff.
+[2017-03-07 23:08:00] <wauterboi> http://www.pythonforbeginners.com/code-snippets-source-code/bitly-shortener-with-python/
+[2017-03-07 23:08:12] <wauterboi> This is a tamer example.
+[2017-03-07 23:13:22] <Maddox> Hmm, looks like a mixture between shell scripting and Perl
+[2017-03-07 23:13:30] <Maddox> I miss the Perl days... Perl intimidated too many people I think.
+[2017-03-07 23:15:07] <Maddox> This is valid Perl code: [the exporter for these DM's really destroyed whatever symbol explosion was here. pretty sure it was a regex]
+[2017-03-07 23:15:32] <wauterboi> I feel like if every language got together and chose a representative to elect how shit was gonna work in a language it would be great.
+[2017-03-07 23:15:40] <wauterboi> "Semicolons? Yay or nay?"
+[2017-03-07 23:16:04] <wauterboi> JavaScript is great but is fucking awful. C++ is great but is fucking awful. I want them to mix.
+[2017-03-07 23:16:32] <Maddox> I don't mind semicolons and syntax between languages too much. I adapt fairly quickly
+[2017-03-07 23:17:06] <Maddox> I feel like I can code in any language, even languages I've never tried before. I can pick up new languages like nothing. It's all syntax. The logic is what matters. Take a Discrete Mathematics class if you haven't already... that's where I really learned how to program.
+[2017-03-07 23:21:28] <wauterboi> Yeah. I can too. Most of my issues are mainly with what's popular. JavaScript is popular for a reason, but I've got a lot of problems with how it functions. It's really unreliable with types. I can't trust that shit will work like it's supposed to.
+[2017-03-07 23:22:36] <wauterboi> The job market for programming and web design is really pushing JavaScript and Java.
+[2017-03-07 23:39:54] <Maddox> Aye
+[2017-03-07 23:40:00] <Maddox> It's good to know
+[2017-03-07 23:40:10] <Maddox> Especially because of jquery
+
+[Note] I've since straighted out. JavaScript still sucks. C++ and JavaScript should not mix. C++ and C# are great. I still appreciate compile-time errors over runtime errors.

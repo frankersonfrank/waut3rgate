@@ -1,0 +1,146 @@
+[2017-01-13 18:09:47] <wauterboi> Hey, does your website preload HTML5 audio?
+[2017-01-13 18:10:01] <wauterboi> If so, you might want to look into disabling that.
+[2017-01-13 18:14:07] <Maddox> No, it's cached
+[2017-01-13 18:18:05] <wauterboi> How does it cache without downloading?
+[2017-01-13 18:23:33] <Maddox> There are dozens of servers that load my content. But depending on the request, it's cached from one of the many CDNs.
+[2017-01-13 18:25:24] <Maddox> You guys going to harass libsyn now too?
+[2017-01-13 18:26:15] <wauterboi> Maddox, come on man.
+[2017-01-13 18:28:14] <wauterboi> There's a guy on Reddit who nicely talked with someone about Libsyn and said that someone who deals with your website may have accidentally left HTML5 preloading on without malicious intent, and that this inflates downloads.
+
+[Note] The nice guy was _688as, who was caught red-handed in a different chatlog joking about Maddox offing himself.
+
+[2017-01-13 18:29:10] <wauterboi> To say that's harassment is really unfair.
+[2017-01-13 18:29:22] <Maddox> Why won't the dick warts move the fuck on? I haven't done anything wrong. Jesus, you're listening to a man who brags about sleeping with people's wives and hanging out in a community that makes rape and death threats regularly. Enough is enough with this shit. You guys are harassing my sponsors, my friends and my guests. Enough dude.
+[2017-01-13 18:29:39] <Maddox> And Kendal and Hyde
+[2017-01-13 18:29:40] <Maddox> and Harry's
+[2017-01-13 18:29:42] <Maddox> and Casper
+[2017-01-13 18:29:46] <Maddox> Time for everyone to fuck off
+[2017-01-13 18:30:16] <Maddox> You guys are trying to kill my livelihood. I didn't go after Dax's livelihood. If he thinks the video was so damaging, maybe he shouldn't have re-tweeted it 3 times. He's playing the dick warts like a fiddle.
+[2017-01-13 18:30:18] <wauterboi> Dude, these people will leave you alone when you yourself apologize and stop trying to make everyone else look like villains.
+[2017-01-13 18:30:30] <Maddox> Apologize for what?
+[2017-01-13 18:30:33] <Maddox> Dax is the aggressor
+[2017-01-13 18:30:40] <Maddox> He ended the podcast by being unprofessional
+[2017-01-13 18:30:45] <Maddox> He slandered me for 4 months
+[2017-01-13 18:30:57] <Maddox> Falsely accused me of hijacking the feed
+[2017-01-13 18:31:03] <Maddox> Attacked my girlfriend on the air
+[2017-01-13 18:31:08] <Maddox> And I'm the bad guy?
+[2017-01-13 18:31:10] <Maddox> Seriously?
+[2017-01-13 18:31:15] <wauterboi> Yeah.
+[2017-01-13 18:31:15] <Maddox> While I've stayed quiet for 4 months?
+[2017-01-13 18:31:19] <Maddox> Okay dude.
+[2017-01-13 18:31:22] <wauterboi> I think there are two bad guys.
+[2017-01-13 18:31:27] <Maddox> Well you're wrong
+[2017-01-13 18:31:35] <Maddox> List the things I did wrong before the podcast ended:
+[2017-01-13 18:31:37] <Maddox> Go ahead.
+[2017-01-13 18:32:24] <wauterboi> That isn't what fans are upset about. They're mad with what happened after.
+[2017-01-13 18:32:42] <wauterboi> And these are people, mind you, who do not want to dislike or hate you. It's absolutely true.
+[2017-01-13 18:32:48] <wauterboi> Asterios included.
+[2017-01-13 18:33:07] <Maddox> What happened after was Dax slandered me for 4 months
+[2017-01-13 18:33:10] <Maddox> And attacked my sponsors
+[2017-01-13 18:33:13] <Maddox> AND I'M THE BAD GUY!
+[2017-01-13 18:33:15] <Maddox> Insane.
+[2017-01-13 18:33:30] <Maddox> Seriously, go fucking look at the number of tweets he made about me after it ended
+[2017-01-13 18:33:32] <Maddox> All slanderous
+[2017-01-13 18:33:40] <wauterboi> It's only insane because you perceive it that way.
+[2017-01-13 18:33:46] <wauterboi> It's an active choice you're making.
+[2017-01-13 18:33:54] <Maddox> It's insane because what you're saying isn't true. I didn't attack him, he attacked me first
+[2017-01-13 18:33:58] <Maddox> He went after my sponsors
+[2017-01-13 18:34:24] <Maddox> That's a fact.
+[2017-01-13 18:34:29] <wauterboi> You attack him all the time in private, and made a video trying to tell everyone that he's a bad person.
+[2017-01-13 18:34:48] <Maddox> No I don't, and no I didn't. Before that video I hadn't said one thing about him
+[2017-01-13 18:34:52] <Maddox> While he continuously lied about me
+[2017-01-13 18:34:54] <wauterboi> Now, granted, this delves into my problem with Dick where he's effectively poking the bear. But the way you lashed out wasn't fair either.
+[2017-01-13 18:34:54] <Maddox> Do you have ANY PROOF?
+[2017-01-13 18:35:16] <Maddox> Show me how I attacked him or said ANYTHING about him before that video
+[2017-01-13 18:35:19] <Maddox> One tweet
+[2017-01-13 18:35:21] <Maddox> One status update
+[2017-01-13 18:35:22] <Maddox> One word about him
+[2017-01-13 18:35:24] <Maddox> Go on, I'm waiting
+[2017-01-13 18:35:29] <wauterboi> Give me one second
+[2017-01-13 18:38:33] <wauterboi> http://hwcdn.libsyn.com/p/e/2/b/e2b881017e75d014/The_Dick_Show_004.mp3?c_id=12074468&expiration=1484367185&hwt=cfdc88f9766f4eabe1fd57400b8dd558
+[2017-01-13 18:39:18] <Maddox> I'm not listening to his show, can you summarize in a sentence?
+[2017-01-13 18:40:01] <Maddox> And again, this is supposed to be proof that *I* said something about him before the video was released... not sure how you quoting him is proving that I said anything. He's proven himself to be a liar.
+[2017-01-13 18:41:22] <wauterboi> The best thing I could do for Dick right now is to not say anything for his personal and professional reputation. People don't know what happened, but there's a reason it happened the way it did and could have a lot of fallout for a lot of people involved.
+[2017-01-13 18:41:46] <wauterboi> When you leave things blank it leaves stuff to the imagination. It's also what you did to Asterios.
+[2017-01-13 18:42:05] <Maddox> Oh right, so someone leaks a private conversation. That's not a public statement. And I'M STILL THE BAD GUY! People abuse my privacy and I'm the bad guy! Unbelievable
+[2017-01-13 18:42:29] <Maddox> And guess what? People are free to imagine anything they want anyway. People were speculating everything from Dick fucking my girlfriend to killing my mother on the forums BEFORE that statement
+[2017-01-13 18:42:33] <wauterboi> Wasn't a problem of yours talking behind not people's back?
+[2017-01-13 18:42:37] <Maddox> So please spare me this bullshit about how that was some damaging thing I said.
+[2017-01-13 18:42:38] <Maddox> It wasn't.
+[2017-01-13 18:43:22] <Maddox> Talking behind your FRIEND's backs and saying you're using them. Yes. Dax isn't my friend anymore and I wasn't talking behind his back. I was explaining very succinctly to the fan that if I told my side of the story, it would hurt his reputation. And guess what? It did.
+[2017-01-13 18:43:34] <Maddox> I told the truth and turns out I was right, wasn't I?
+[2017-01-13 18:43:48] <Maddox> The truth is he's a scumbag who says it's a woman's fault if she gets raped because she's drunk. Fuck that.
+[2017-01-13 18:44:13] <Maddox> And somehow I'm still the bad guy
+[2017-01-13 18:44:24] <Maddox> Even when someone clearly fucking violates my privacy
+[2017-01-13 18:44:30] <Maddox> I'M ALWAYS THE BAD GUY!
+[2017-01-13 18:44:38] <wauterboi> Why couldn't you just leave things at personal differences and explained things with the feed and site blanking out.
+[2017-01-13 18:44:49] <wauterboi> Dude, I have beefs with Dick. They aren't relevant right now.
+[2017-01-13 18:44:53] <Maddox> I did explain it
+[2017-01-13 18:44:57] <wauterboi> I had beef with Asterios.
+[2017-01-13 18:45:05] <Maddox> You guys are choosing not to listen to it
+[2017-01-13 18:45:07] <wauterboi> I'm talking to you and not them.
+[2017-01-13 18:45:08] <Maddox> Randy explained it too
+[2017-01-13 18:45:33] <Maddox> Randy texted me and said "hey man, do you want me to explain what happened on Reddit?" I said "I don't think they'll believe it, but go for it." And he told the truth
+[2017-01-13 18:45:37] <Maddox> and guess what? MADDOX IS THE BAD GUY!
+[2017-01-13 18:45:43] <Maddox> That's a common theme with that toxic fan base
+[2017-01-13 18:45:46] <Maddox> I can do NOTHING right
+[2017-01-13 18:46:19] <Maddox> I'm a man with integrity who has produced content and served it ad-free on my website for 19 fucking years because of a promise I've made. And you're doubting me over a man who brags about sleeping with married women. OOOOokaaayy!
+[2017-01-13 18:46:50] <wauterboi> I don't really care about that too be quite honest. He's a content creator, not a saint.
+[2017-01-13 18:47:00] <Maddox> I tried to protect Asterios from the ugly truth: he incited a mob that caused my girlfriend to get rape threats.... and guess what? I'm the bad guy!
+[2017-01-13 18:47:18] <Maddox> He's not a content creator, he's a slanderous asshole and a sociopath who will hurt everyone around him.
+[2017-01-13 18:47:32] <wauterboi> Because it sounds like you're trying to manipulate by omitting details, leaving things to the imagination.
+[2017-01-13 18:47:39] <Maddox> I'm not trying to do anything
+[2017-01-13 18:47:46] <Maddox> That wasn't supposed to be a public statement
+[2017-01-13 18:47:54] <Maddox> That guy violated my trust and broke his word to not share those details
+[2017-01-13 18:48:03] <Maddox> BUT I'M THE BAD GUY!
+[2017-01-13 18:48:13] <Maddox> Got it.
+[2017-01-13 18:48:30] <Maddox> If someone fucks me over, I'm the bad guy. If I say anything: I'm the bad guy. If I do anything at all, I'm the bad guy. Cool.
+[2017-01-13 18:49:16] <wauterboi> Maddox, I'm going to straight up with you. None of this is going to end unless you do something and prove yourself to be a good person to these people. Admitting that you have flaws and that you're willing to stop talking to fans about Dick or Asterios and that you really want things to move on.
+[2017-01-13 18:50:06] <wauterboi> You have to put yourself in these peoples shoes. You have to put yourself in my shoes. There is a reason for all of the rage and discontent and everything.
+[2017-01-13 18:50:26] <Maddox> I'm the one who needs to stop talking to fans about them? When they tweet to fans about me IN PUBLIC non-stop, week after week? Seriously?
+[2017-01-13 18:50:41] <Maddox> I already admitted I ended things badly in that email
+[2017-01-13 18:50:47] <Maddox> Jesse apologized to Denzel, how did that turn out?
+[2017-01-13 18:50:50] <Maddox> These people don't want an apology
+[2017-01-13 18:50:52] <Maddox> They want to destroy
+[2017-01-13 18:51:00] <Maddox> They're not good people. They want to harass and intimidate and threaten
+[2017-01-13 18:51:06] <Maddox> They're fucking cowards and scumbags.
+[2017-01-13 18:51:07] <wauterboi> Jesse is a bag of dicks so I don't really care about that guy.
+[2017-01-13 18:51:10] <Maddox> I responded to 4 months of harassment
+[2017-01-13 18:51:13] <Maddox> Enough is enough.
+[2017-01-13 18:51:20] <wauterboi> It isn't.
+[2017-01-13 18:51:37] <Maddox> I admitted I have flaws
+[2017-01-13 18:51:46] <Maddox> They're taking the maddox character way too seriously. You guys are Hurting real people
+[2017-01-13 18:52:09] <Maddox> Dax had my friend on his show
+[2017-01-13 18:52:18] <Maddox> And slandered me and told all sorts of lies before that video came out
+[2017-01-13 18:52:26] <Maddox> My friend came up to me and was shocked, and I had to tell him none of it was true
+[2017-01-13 18:52:39] <Maddox> He was trying to hurt my personal and professional reputation on the air to thousands of listeners. Fuck him.
+[2017-01-13 18:52:42] <wauterboi> You have to put yourself on the same level as these people and talk to them and show them that you want all this to stop and that you aren't going to continue talking to people about Dick with the intent of convincing them "about the truth".
+[2017-01-13 18:52:46] <Maddox> He owes me and everyone a big apology
+[2017-01-13 18:53:00] <Maddox> I can't talk to my own fans now? Seriously?
+[2017-01-13 18:53:08] <Maddox> You think I'm the problem here? Look at his fucking tweets!
+[2017-01-13 18:53:12] <Maddox> He's tweeting about me non-stop!
+[2017-01-13 18:53:14] <Maddox> He's obsessed
+[2017-01-13 18:53:19] <Maddox> He needs psychological help
+[2017-01-13 18:53:20] <wauterboi> I'm not a fan about the goss.
+[2017-01-13 18:53:32] <Maddox> I don't care about what you're a fan of, this isn't content, this is slander and harassment
+[2017-01-13 18:53:34] <Maddox> And stalking.
+[2017-01-13 18:54:07] <Maddox> I can't believe these idiots violate my trust and somehow I'm the bad guy for SPEAKING MY MIND AND TRYING TO DEFEND MYSELF
+[2017-01-13 18:54:09] <Maddox> Fuck that dude.
+[2017-01-13 18:55:36] <Maddox> This is sick. That whole fan base is full of harassers. You guys are hurting real people with feelings. Those idiots don't even seem to realize that Maddox is a character
+[2017-01-13 18:55:40] <Maddox> They're going after my fucking livelihood
+[2017-01-13 18:56:37] <Maddox> If I defend myself, I'm wrong. If I stay silent, I'm wrong. If I make a public statement, I'm wrong. Got it. Only dick is the right one. He's a good person who sleeps with people's wives, calls women fat, harasses private people and he's the one who doesn't need to apologize. Cool.
+[2017-01-13 18:57:03] <wauterboi> Do you think that because I don't talk shit about Dick to you that I'm Dick's best friend?
+[2017-01-13 18:57:18] <Maddox> You seem to believe his lies.
+[2017-01-13 18:57:23] <Maddox> I don't want you to talk shit about him.
+[2017-01-13 18:57:26] <Maddox> I don't care about him.
+[2017-01-13 18:57:35] <Maddox> I just want to be left alone. This is harassment
+[2017-01-13 18:57:41] <Maddox> I endured 4 months of slander BEFORE that video was released
+[2017-01-13 18:57:56] <wauterboi> Maddox, I'm going to be straight up with you: I want this stuff to stop. I have an idea of how to stop it.
+[2017-01-13 18:58:04] <Maddox> Dax lied about the feed, he lied about the finances, he lied about my ex, he lied about our friendship, he lied about the site being deleted, he lied about wordpress, he lies about everything.
+[2017-01-13 18:58:06] <wauterboi> I'm working on something
+[2017-01-13 18:58:10] <Maddox> Okay let's hear it
+[2017-01-13 18:58:24] <wauterboi> Nope, you'll have to see it when it's done
+[2017-01-13 18:58:44] <Maddox> Okay, but if it involves me, can you please show me first?
+[2017-01-13 18:59:04] <wauterboi> I can show you first but I'm going to put it out there whether or not you say yes or no.
+[2017-01-13 19:00:04] <wauterboi> I've been working on it very carefully the last few days.
+[2017-01-13 19:01:39] <Maddox> I'd like to see
